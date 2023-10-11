@@ -2,14 +2,14 @@
 
 Notes for 102d10
 
-[Class 01](https://github.com/BryannaKFox/Seattle-Ops-102d10/wiki/Read-01)
+[Read 01](https://github.com/BryannaKFox/Seattle-Ops-102d10/wiki/Read-01)
 
-[Class 02](https://github.com/BryannaKFox/Seattle-Ops-102d10/wiki/Read-02)
+[Read 02](https://github.com/BryannaKFox/Seattle-Ops-102d10/wiki/Read-02)
 
-[Class 03](https://github.com/BryannaKFox/Seattle-Ops-102d10/wiki/Read-03)
+[Read 03](https://github.com/BryannaKFox/Seattle-Ops-102d10/wiki/Read-03)
 
-[Class 04](https://github.com/BryannaKFox/Seattle-Ops-102d10/wiki/Read-04)
+[Read 04](https://github.com/BryannaKFox/Seattle-Ops-102d10/wiki/Read-04)
 
-[Class 05](https://github.com/BryannaKFox/Seattle-Ops-102d10/wiki/Read-05)
+[Read 05](https://github.com/BryannaKFox/Seattle-Ops-102d10/wiki/Read-05)
 
-[Class 06](https://github.com/BryannaKFox/Seattle-Ops-102d10/wiki/Read-06)
+[Read 06](https://github.com/BryannaKFox/Seattle-Ops-102d10/wiki/Read-06)
