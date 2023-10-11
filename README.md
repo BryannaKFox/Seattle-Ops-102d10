@@ -8,8 +8,8 @@ Notes for 102d10
 
 [Class 03](https://github.com/BryannaKFox/Seattle-Ops-102d10/wiki/Read-03)
 
-[Class 03](https://github.com/BryannaKFox/Seattle-Ops-102d10/wiki/Read-04)
+[Class 04](https://github.com/BryannaKFox/Seattle-Ops-102d10/wiki/Read-04)
 
-[Class 03](https://github.com/BryannaKFox/Seattle-Ops-102d10/wiki/Read-05)
+[Class 05](https://github.com/BryannaKFox/Seattle-Ops-102d10/wiki/Read-05)
 
-[Class 03](https://github.com/BryannaKFox/Seattle-Ops-102d10/wiki/Read-06)
+[Class 06](https://github.com/BryannaKFox/Seattle-Ops-102d10/wiki/Read-06)
