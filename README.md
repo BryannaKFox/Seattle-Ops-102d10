@@ -13,3 +13,5 @@ Notes for 102d10
 [Read 05](https://github.com/BryannaKFox/Seattle-Ops-102d10/wiki/Read-05)
 
 [Read 06](https://github.com/BryannaKFox/Seattle-Ops-102d10/wiki/Read-06)
+
+[Read 07](https://github.com/BryannaKFox/Seattle-Ops-102d10/wiki/Read-07)
